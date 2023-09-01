@@ -19,6 +19,7 @@ body{
     display: flex;
     height: 238px;
     width: 100%;
+    position: absolute;
 }
 .logo__principa{
     
@@ -39,5 +40,8 @@ body{
         text-transform: uppercase;
     color: white;
     padding: 20px;
+    position: relative;
+    bottom: 30px;
+
 }
 
