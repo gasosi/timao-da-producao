@@ -1,0 +1,13 @@
+*{
+    width: auto;
+    box-sizing: border-box;
+    margin: 0 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-image: url(background.jpg);
+    display: flex;
+    height: 238px;
+    width: 100%;
+}
