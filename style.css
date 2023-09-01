@@ -45,3 +45,18 @@ body{
 
 }
 
+.slider{
+    position: relative;
+}
+
+.conteudo{
+    position: relative;
+}
+
+.tabela{
+    position: relative;
+}
+
+.animacao{
+    position: relative;
+}
