@@ -50,6 +50,8 @@ body {
 .slider {
     position: relative;
     top: 0;
+    justify-content: space-around;
+    
 }
 
 .conteudo {
@@ -64,8 +66,7 @@ body {
     position: relative;
 }
 
-.slider{
-    justify-content: space-around;
+.slider__titulo-cassio{
     text-transform: uppercase;
 }
 
