@@ -63,6 +63,12 @@ body {
     position: relative;
 }
 
-.principal{
-    justify-content: center;
+.slider{
+    justify-content: space-around;
+    text-transform: uppercase;
+}
+
+.slider__imagem-cassio{
+    display: flex;
+    justify-content: space-around;
 }
