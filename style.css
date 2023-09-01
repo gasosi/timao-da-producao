@@ -49,6 +49,7 @@ body {
 
 .slider {
     position: relative;
+    top: 0;
 }
 
 .conteudo {
