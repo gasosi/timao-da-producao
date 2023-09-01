@@ -20,12 +20,14 @@ body{
     height: 238px;
     width: 100%;
 }
-
+.logo__principa{
+    background-color: white;
+}
 .logo{
     height: 150px;
     width: 200px;
     border-radius: 100%;
-    background-color: white;
 
 }
+
 
