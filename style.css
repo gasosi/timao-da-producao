@@ -32,4 +32,9 @@ body{
     background-color: white;
 }
 
+.menu-itens{
+            display: flex;
+        justify-content: center;
+    
+}
 
