@@ -34,7 +34,7 @@ body{
 
 .menu__itens{
             display: flex;
-        justify-content: center;
+        justify-content: space-around;
     
 }
 
